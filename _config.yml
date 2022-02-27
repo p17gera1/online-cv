@@ -26,3 +26,15 @@ compress_html: # - http://jch.penibelst.de/
 port: 4000
 host: 0.0.0.0
 safe: false
+
+
+
+#Profile information
+name: Theodoris Gerasopoulos
+tagline: New Developer
+pic: me.png
+
+
+#sidebar links
+email: p17gera1@ionio.gr
+phone: 030 6912345678

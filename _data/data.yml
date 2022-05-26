@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Theodoros Geraslopoulos
-    tagline: Full Stack Developer
+    tagline: Junior Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -18,7 +18,7 @@ sidebar:
     website: blog.webjeda.com #do not add http://
     linkedin: alandoe
     xing: alandoe
-    github: sharu725
+    github: p17gera1
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
@@ -31,12 +31,6 @@ sidebar:
     languages:
       - idiom: English
         level: Native
-
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
 
     interests:
       - item: Climbing
@@ -171,23 +165,17 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 100%
+      - name: Python
+        level: 50%
 
       - name: Javascript & jQuery
         level: 8%
 
-      - name: Angular
-        level: 90%
-
       - name: HTML5 & CSS
         level: 70%
 
-      - name: Ruby on Rails
-        level: 47%
-
       - name: Sketch & Photoshop
-        level: 50%
+        level: 10%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>

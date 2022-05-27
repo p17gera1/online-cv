@@ -20,8 +20,12 @@ sidebar:
     pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
-      - idiom: English
+    English 
+      - idiom: Greek
         level: Native
+        
+      - idiom: English
+        level: (Student)
 
     interests:
       - item: Programming

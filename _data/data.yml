@@ -14,19 +14,18 @@ sidebar:
     # Sidebar links
     email: p17gera1@ionio.gr
     phone: 697*******
-    citizenship:
-    website: p17gera1.github.io/online-cv/ #do not add http://
+    citizenship: Greece
     github: p17gera1
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    website: p17gera1.github.io/online-cv/ #do not add http://
+    pdf: ./pdf/cv.pdf
 
     languages:
-    English 
       - idiom: Greek
         level: Native
         
       - idiom: English
         level: Student
-
+        
     interests:
       - item: Programming
         link:

@@ -24,7 +24,7 @@ sidebar:
         level: Native
         
       - idiom: English
-        level: Student
+        level: Professional
         
     interests:
       - item: Programming
@@ -52,7 +52,7 @@ skills:
 
     toolset:
       - name: Python
-        level: 50%
+        level: 90%
 
       - name: Javascript & jQuery
         level: 85%
